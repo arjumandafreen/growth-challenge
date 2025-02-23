@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#4CAF50"  # Keep this for the primary button color (or change it to any color you like)
+backgroundColor = "#000000"  # Set the background color to black
+secondaryBackgroundColor = "#1C1C1C"  # Dark gray for secondary backgrounds
+textColor = "#FFFFFF"  # Set text color to white for visibility
+font = "sans serif"
+
+

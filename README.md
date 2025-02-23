@@ -62,7 +62,7 @@ The **Growth Mindset Challenge** is an interactive web application built using *
 3. Data is stored in JSON files to keep track of user input.
 4. Users can review past progress, reflections, goals, and success stories.
 5. The app provides daily challenges and motivation to keep users engaged.
-https://growth-challenge-dvfyexgpu88uivcqs7zlbz.streamlit.app/
+
 ## Future Enhancements
 - Implement authentication for personalized user data storage.
 - Add visualization tools to track progress over time.
